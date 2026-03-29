@@ -1,0 +1,38 @@
+{
+	"level_seeds": [
+		{
+			"dim": "minecraft:overworld",
+			"seed": 1606333867910282653
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": 1606333867910282653
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 1606333867910282653
+		},
+		{
+			"dim": "graveyard:past",
+			"seed": 1606333867910282653
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "minecraft:overworld",
+			"seed": 1606333867910282653
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": 1606333867910282653
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 1606333867910282653
+		},
+		{
+			"dim": "graveyard:past",
+			"seed": 1606333867910282653
+		}
+	]
+}

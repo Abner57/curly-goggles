@@ -1,0 +1,17 @@
+{
+	id: "e9fc10c2-f2c0-3edd-9e9a-50eb99574c22"
+	type: "player"
+	player_name: "__BATZ777__"
+	ranks: {
+		e9fc10c2-f2c0-3edd-9e9a-50eb99574c22: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "__BATZ777__"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FCFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

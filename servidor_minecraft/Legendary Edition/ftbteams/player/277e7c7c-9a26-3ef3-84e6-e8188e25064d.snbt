@@ -1,0 +1,17 @@
+{
+	id: "277e7c7c-9a26-3ef3-84e6-e8188e25064d"
+	type: "player"
+	player_name: "Kutabare_Sticker"
+	ranks: {
+		277e7c7c-9a26-3ef3-84e6-e8188e25064d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Kutabare_Sticker"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7459"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
